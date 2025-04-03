@@ -1,0 +1,23 @@
+
+---
+
+### **3. 34_LogPatternScope**  
+**Description:**  
+Scans log files to reveal repeated lines, anomaly clusters, and frequency spikes.
+
+#### **README.md**
+```markdown
+# LogPatternScope - Repetition & Spike Analyzer
+
+LogPatternScope surfaces high-frequency log lines and can detect sudden anomalies in system or app logs.
+
+## Features
+- Burst detection  
+- Keyword flagging  
+- Frequency heatmap  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_LogPatternScope.git
+cd 34_LogPatternScope
+python analyze.py
