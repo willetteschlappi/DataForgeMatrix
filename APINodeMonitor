@@ -1,0 +1,23 @@
+
+---
+
+### **2. 34_APINodeMonitor**  
+**Description:**  
+A tool to scan and track the status of distributed API nodes or endpoints.
+
+#### **README.md**
+```markdown
+# APINodeMonitor - Distributed Endpoint Tracker
+
+APINodeMonitor helps track multiple service nodes for availability, status codes, and latency over time.
+
+## Features
+- Batch endpoint scanning  
+- Logs latency spikes  
+- Outputs to console and file  
+
+## Usage
+```bash
+git clone https://github.com/your-username/34_APINodeMonitor.git
+cd 34_APINodeMonitor
+python monitor.py
